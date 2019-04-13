@@ -1,5 +1,7 @@
 # Web-Crawler
 
+Use Eclipse for development. 
+
 No of classes - 5
 1) SPIDER CLASS
 2) CRAWLER CLASS
